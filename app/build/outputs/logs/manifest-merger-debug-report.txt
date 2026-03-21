@@ -1,0 +1,388 @@
+-- Merging decision tree log ---
+provider#rikka.shizuku.ShizukuProvider
+INJECTED from /home/vertigo/AndroidStudioProjects/OppositeApp/app/src/main/AndroidManifest.xml:32:9-37:82
+	android:authorities
+		INJECTED from /home/vertigo/AndroidStudioProjects/OppositeApp/app/src/main/AndroidManifest.xml
+		ADDED from /home/vertigo/AndroidStudioProjects/OppositeApp/app/src/main/AndroidManifest.xml:34:13-59
+	android:multiprocess
+		ADDED from /home/vertigo/AndroidStudioProjects/OppositeApp/app/src/main/AndroidManifest.xml:36:13-41
+	android:exported
+		ADDED from /home/vertigo/AndroidStudioProjects/OppositeApp/app/src/main/AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from /home/vertigo/AndroidStudioProjects/OppositeApp/app/src/main/AndroidManifest.xml:37:13-79
+	android:name
+		ADDED from /home/vertigo/AndroidStudioProjects/OppositeApp/app/src/main/AndroidManifest.xml:33:13-57
+provider#androidx.core.content.FileProvider
+INJECTED from /home/vertigo/AndroidStudioProjects/OppositeApp/app/src/main/AndroidManifest.xml:40:9-48:20
+	android:grantUriPermissions
+		ADDED from /home/vertigo/AndroidStudioProjects/OppositeApp/app/src/main/AndroidManifest.xml:44:13-47
+	android:authorities
+		INJECTED from /home/vertigo/AndroidStudioProjects/OppositeApp/app/src/main/AndroidManifest.xml
+		ADDED from /home/vertigo/AndroidStudioProjects/OppositeApp/app/src/main/AndroidManifest.xml:42:13-60
+	android:exported
+		ADDED from /home/vertigo/AndroidStudioProjects/OppositeApp/app/src/main/AndroidManifest.xml:43:13-37
+	android:name
+		ADDED from /home/vertigo/AndroidStudioProjects/OppositeApp/app/src/main/AndroidManifest.xml:41:13-62
+manifest
+ADDED from /home/vertigo/AndroidStudioProjects/OppositeApp/app/src/main/AndroidManifest.xml:2:1-51:12
+INJECTED from /home/vertigo/AndroidStudioProjects/OppositeApp/app/src/main/AndroidManifest.xml:2:1-51:12
+INJECTED from /home/vertigo/AndroidStudioProjects/OppositeApp/app/src/main/AndroidManifest.xml:2:1-51:12
+INJECTED from /home/vertigo/AndroidStudioProjects/OppositeApp/app/src/main/AndroidManifest.xml:2:1-51:12
+MERGED from [androidx.compose.material3:material3-android:1.2.0] /home/vertigo/.gradle/caches/transforms-3/a4b5292a4167be8f2bcd9c47b410e459/transformed/material3-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.material:material-android:1.6.1] /home/vertigo/.gradle/caches/transforms-3/09a207ec74d853ac2e1e46faafe3e7f7/transformed/material-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-icons-core-android:1.6.1] /home/vertigo/.gradle/caches/transforms-3/0cb6b17ef82ff5f5a01ff33f5d7a7278/transformed/material-icons-core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-icons-extended-android:1.6.1] /home/vertigo/.gradle/caches/transforms-3/4aeddd86fbc0a27303c91185f8a3559c/transformed/material-icons-extended-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-ripple-android:1.6.1] /home/vertigo/.gradle/caches/transforms-3/2e07f69b704c313109357947ac2beeab/transformed/material-ripple-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-android:1.6.1] /home/vertigo/.gradle/caches/transforms-3/602c82fa83cc5b49af16be15c480842d/transformed/foundation-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-android:1.6.1] /home/vertigo/.gradle/caches/transforms-3/5a95a9137e66539f6a2239cdb54fcb35/transformed/animation-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.6.1] /home/vertigo/.gradle/caches/transforms-3/17ea50e1263b235f9beb62c88d3c4163/transformed/foundation-layout-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-core-android:1.6.1] /home/vertigo/.gradle/caches/transforms-3/8d7182cdc0f4516b5bfbd9fc67515373/transformed/animation-core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.6.1] /home/vertigo/.gradle/caches/transforms-3/f9f7a905ed618180d3597f4e923984b4/transformed/ui-tooling-data-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-unit-android:1.6.1] /home/vertigo/.gradle/caches/transforms-3/eb7fbc6a52738ff1fbfc95c2b97e79be/transformed/ui-unit-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-geometry-android:1.6.1] /home/vertigo/.gradle/caches/transforms-3/6dcb1427b010638ad891b0be7d652e92/transformed/ui-geometry-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-util-android:1.6.1] /home/vertigo/.gradle/caches/transforms-3/e51627b2f89cefe06e3a0143a2a03008/transformed/ui-util-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-text-android:1.6.1] /home/vertigo/.gradle/caches/transforms-3/61f61e2288bdcab78ad03c092a295f5f/transformed/ui-text-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.6.1] /home/vertigo/.gradle/caches/transforms-3/ba4dfad7cce028600c94c6602f8f486a/transformed/ui-tooling-preview-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-tooling-android:1.6.1] /home/vertigo/.gradle/caches/transforms-3/f22a8ba4aa3a13e939c2714e28fc88fa/transformed/ui-tooling-release/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.compose.ui:ui-graphics-android:1.6.1] /home/vertigo/.gradle/caches/transforms-3/e782116942221b004f8b84511819e42b/transformed/ui-graphics-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-test-manifest:1.6.1] /home/vertigo/.gradle/caches/transforms-3/e5596daf1ab123b56ec00b2c6f9c31fb/transformed/ui-test-manifest-1.6.1/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.activity:activity:1.8.2] /home/vertigo/.gradle/caches/transforms-3/f598de29a657664a173ec2e0a489c22a/transformed/activity-1.8.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-ktx:1.8.2] /home/vertigo/.gradle/caches/transforms-3/48017947aab37afc85deb28da0fd7037/transformed/activity-ktx-1.8.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity-compose:1.8.2] /home/vertigo/.gradle/caches/transforms-3/31540e42f446e6ced3cb9865c174d9b5/transformed/activity-compose-1.8.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-android:1.6.1] /home/vertigo/.gradle/caches/transforms-3/6fe095ae94746489116c3e144639aa95/transformed/ui-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.autofill:autofill:1.0.0] /home/vertigo/.gradle/caches/transforms-3/b73ec58ddab3aeae0204fb5caae25d31/transformed/autofill-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/vertigo/.gradle/caches/transforms-3/910e26ee64e744e6ba693a9092449d9b/transformed/emoji2-1.3.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.core:core:1.12.0] /home/vertigo/.gradle/caches/transforms-3/04312fcc81a1dba854cd5396be05d8ca/transformed/core-1.12.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /home/vertigo/.gradle/caches/transforms-3/083e521b44f6514bba935ec55abb258f/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /home/vertigo/.gradle/caches/transforms-3/6627fc08f2a5b5190efd8ca8137b3b0e/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] /home/vertigo/.gradle/caches/transforms-3/7d33a910eaac04779d29d49f75d54eab/transformed/lifecycle-livedata-core-2.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0] /home/vertigo/.gradle/caches/transforms-3/6adfae340b2bf8bf9bd05709e5f48a6c/transformed/lifecycle-viewmodel-ktx-2.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] /home/vertigo/.gradle/caches/transforms-3/c470949c830718823de56a06bacead44/transformed/lifecycle-viewmodel-2.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.7.0] /home/vertigo/.gradle/caches/transforms-3/5756ec2ab082629850437ed69c267b2e/transformed/lifecycle-runtime-ktx-2.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] /home/vertigo/.gradle/caches/transforms-3/f7e84d318a746cc06c5bb13a017d3482/transformed/lifecycle-runtime-2.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /home/vertigo/.gradle/caches/transforms-3/c660b6dc6a3463d06b67321f3ad00310/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/vertigo/.gradle/caches/transforms-3/f31a15b312a3404d452900ff76d108d6/transformed/savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] /home/vertigo/.gradle/caches/transforms-3/f60c8fd0e153867f8d62aac0dba5afa6/transformed/lifecycle-viewmodel-savedstate-2.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.12.0] /home/vertigo/.gradle/caches/transforms-3/9aebf5de2db2af94074a51bd7ae53573/transformed/core-ktx-1.12.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.6.1] /home/vertigo/.gradle/caches/transforms-3/9223995c0af468764f5943749c6b70ad/transformed/runtime-saveable-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-android:1.6.1] /home/vertigo/.gradle/caches/transforms-3/92f0449159021a47959fa239d8546a68/transformed/runtime-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /home/vertigo/.gradle/caches/transforms-3/54f5a622600580373a3d18075ee4b2c4/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/vertigo/.gradle/caches/transforms-3/2783121dfdfce77c9b66ff409459243e/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [dev.rikka.shizuku:provider:13.1.5] /home/vertigo/.gradle/caches/transforms-3/cf1b7f3c2363a54e3d5ab1115f4882b8/transformed/provider-13.1.5/AndroidManifest.xml:2:1-16:12
+MERGED from [dev.rikka.shizuku:api:13.1.5] /home/vertigo/.gradle/caches/transforms-3/e294b0836816b478c5a46a87d6bbdbcc/transformed/api-13.1.5/AndroidManifest.xml:2:1-7:12
+MERGED from [dev.rikka.shizuku:shared:13.1.5] /home/vertigo/.gradle/caches/transforms-3/98e298fe5082a2e1a4f44a40026b7c96/transformed/shared-13.1.5/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/vertigo/.gradle/caches/transforms-3/9e3b8c9a3a157a178c2bde1289611433/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/vertigo/.gradle/caches/transforms-3/b2d547046bc10e49f15fd23dfad1f2ee/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/vertigo/.gradle/caches/transforms-3/0193a71f29d99aac502129feacf4367b/transformed/profileinstaller-1.3.0/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/vertigo/.gradle/caches/transforms-3/c17e386f2f6ea620cc7dca086c7d6fa6/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /home/vertigo/.gradle/caches/transforms-3/d52b4e34a60bb21d157aebba8182c94a/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [dev.rikka.shizuku:aidl:13.1.5] /home/vertigo/.gradle/caches/transforms-3/3dc1717b00db870be365d091389f5d2c/transformed/aidl-13.1.5/AndroidManifest.xml:2:1-7:12
+	package
+		INJECTED from /home/vertigo/AndroidStudioProjects/OppositeApp/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/vertigo/AndroidStudioProjects/OppositeApp/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/vertigo/AndroidStudioProjects/OppositeApp/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /home/vertigo/AndroidStudioProjects/OppositeApp/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/vertigo/AndroidStudioProjects/OppositeApp/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/vertigo/AndroidStudioProjects/OppositeApp/app/src/main/AndroidManifest.xml:6:5-7:38
+	android:maxSdkVersion
+		ADDED from /home/vertigo/AndroidStudioProjects/OppositeApp/app/src/main/AndroidManifest.xml:7:9-35
+	android:name
+		ADDED from /home/vertigo/AndroidStudioProjects/OppositeApp/app/src/main/AndroidManifest.xml:6:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/vertigo/AndroidStudioProjects/OppositeApp/app/src/main/AndroidManifest.xml:8:5-9:38
+	android:maxSdkVersion
+		ADDED from /home/vertigo/AndroidStudioProjects/OppositeApp/app/src/main/AndroidManifest.xml:9:9-35
+	android:name
+		ADDED from /home/vertigo/AndroidStudioProjects/OppositeApp/app/src/main/AndroidManifest.xml:8:22-78
+uses-permission#android.permission.MANAGE_EXTERNAL_STORAGE
+ADDED from /home/vertigo/AndroidStudioProjects/OppositeApp/app/src/main/AndroidManifest.xml:10:5-11:40
+	tools:ignore
+		ADDED from /home/vertigo/AndroidStudioProjects/OppositeApp/app/src/main/AndroidManifest.xml:11:9-37
+	android:name
+		ADDED from /home/vertigo/AndroidStudioProjects/OppositeApp/app/src/main/AndroidManifest.xml:10:22-79
+application
+ADDED from /home/vertigo/AndroidStudioProjects/OppositeApp/app/src/main/AndroidManifest.xml:13:5-50:19
+INJECTED from /home/vertigo/AndroidStudioProjects/OppositeApp/app/src/main/AndroidManifest.xml:13:5-50:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.6.1] /home/vertigo/.gradle/caches/transforms-3/f22a8ba4aa3a13e939c2714e28fc88fa/transformed/ui-tooling-release/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.6.1] /home/vertigo/.gradle/caches/transforms-3/f22a8ba4aa3a13e939c2714e28fc88fa/transformed/ui-tooling-release/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-test-manifest:1.6.1] /home/vertigo/.gradle/caches/transforms-3/e5596daf1ab123b56ec00b2c6f9c31fb/transformed/ui-test-manifest-1.6.1/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-test-manifest:1.6.1] /home/vertigo/.gradle/caches/transforms-3/e5596daf1ab123b56ec00b2c6f9c31fb/transformed/ui-test-manifest-1.6.1/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/vertigo/.gradle/caches/transforms-3/910e26ee64e744e6ba693a9092449d9b/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/vertigo/.gradle/caches/transforms-3/910e26ee64e744e6ba693a9092449d9b/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.12.0] /home/vertigo/.gradle/caches/transforms-3/04312fcc81a1dba854cd5396be05d8ca/transformed/core-1.12.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.12.0] /home/vertigo/.gradle/caches/transforms-3/04312fcc81a1dba854cd5396be05d8ca/transformed/core-1.12.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /home/vertigo/.gradle/caches/transforms-3/6627fc08f2a5b5190efd8ca8137b3b0e/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /home/vertigo/.gradle/caches/transforms-3/6627fc08f2a5b5190efd8ca8137b3b0e/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/vertigo/.gradle/caches/transforms-3/2783121dfdfce77c9b66ff409459243e/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/vertigo/.gradle/caches/transforms-3/2783121dfdfce77c9b66ff409459243e/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [dev.rikka.shizuku:provider:13.1.5] /home/vertigo/.gradle/caches/transforms-3/cf1b7f3c2363a54e3d5ab1115f4882b8/transformed/provider-13.1.5/AndroidManifest.xml:10:5-14:19
+MERGED from [dev.rikka.shizuku:provider:13.1.5] /home/vertigo/.gradle/caches/transforms-3/cf1b7f3c2363a54e3d5ab1115f4882b8/transformed/provider-13.1.5/AndroidManifest.xml:10:5-14:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/vertigo/.gradle/caches/transforms-3/0193a71f29d99aac502129feacf4367b/transformed/profileinstaller-1.3.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/vertigo/.gradle/caches/transforms-3/0193a71f29d99aac502129feacf4367b/transformed/profileinstaller-1.3.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/vertigo/.gradle/caches/transforms-3/c17e386f2f6ea620cc7dca086c7d6fa6/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/vertigo/.gradle/caches/transforms-3/c17e386f2f6ea620cc7dca086c7d6fa6/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+	android:extractNativeLibs
+		INJECTED from /home/vertigo/AndroidStudioProjects/OppositeApp/app/src/main/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.12.0] /home/vertigo/.gradle/caches/transforms-3/04312fcc81a1dba854cd5396be05d8ca/transformed/core-1.12.0/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /home/vertigo/AndroidStudioProjects/OppositeApp/app/src/main/AndroidManifest.xml:17:9-35
+	android:label
+		ADDED from /home/vertigo/AndroidStudioProjects/OppositeApp/app/src/main/AndroidManifest.xml:16:9-41
+	tools:ignore
+		ADDED from [dev.rikka.shizuku:provider:13.1.5] /home/vertigo/.gradle/caches/transforms-3/cf1b7f3c2363a54e3d5ab1115f4882b8/transformed/provider-13.1.5/AndroidManifest.xml:10:18-69
+	tools:targetApi
+		ADDED from /home/vertigo/AndroidStudioProjects/OppositeApp/app/src/main/AndroidManifest.xml:19:9-29
+	android:icon
+		ADDED from /home/vertigo/AndroidStudioProjects/OppositeApp/app/src/main/AndroidManifest.xml:15:9-45
+	android:allowBackup
+		ADDED from /home/vertigo/AndroidStudioProjects/OppositeApp/app/src/main/AndroidManifest.xml:14:9-35
+	android:theme
+		ADDED from /home/vertigo/AndroidStudioProjects/OppositeApp/app/src/main/AndroidManifest.xml:18:9-49
+activity#com.vertigo.opposite.MainActivity
+ADDED from /home/vertigo/AndroidStudioProjects/OppositeApp/app/src/main/AndroidManifest.xml:21:9-29:20
+	android:exported
+		ADDED from /home/vertigo/AndroidStudioProjects/OppositeApp/app/src/main/AndroidManifest.xml:23:13-36
+	android:theme
+		ADDED from /home/vertigo/AndroidStudioProjects/OppositeApp/app/src/main/AndroidManifest.xml:24:13-53
+	android:name
+		ADDED from /home/vertigo/AndroidStudioProjects/OppositeApp/app/src/main/AndroidManifest.xml:22:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/vertigo/AndroidStudioProjects/OppositeApp/app/src/main/AndroidManifest.xml:25:13-28:29
+action#android.intent.action.MAIN
+ADDED from /home/vertigo/AndroidStudioProjects/OppositeApp/app/src/main/AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from /home/vertigo/AndroidStudioProjects/OppositeApp/app/src/main/AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/vertigo/AndroidStudioProjects/OppositeApp/app/src/main/AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from /home/vertigo/AndroidStudioProjects/OppositeApp/app/src/main/AndroidManifest.xml:27:27-74
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from /home/vertigo/AndroidStudioProjects/OppositeApp/app/src/main/AndroidManifest.xml:45:13-47:54
+	android:resource
+		ADDED from /home/vertigo/AndroidStudioProjects/OppositeApp/app/src/main/AndroidManifest.xml:47:17-51
+	android:name
+		ADDED from /home/vertigo/AndroidStudioProjects/OppositeApp/app/src/main/AndroidManifest.xml:46:17-67
+uses-sdk
+INJECTED from /home/vertigo/AndroidStudioProjects/OppositeApp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/vertigo/AndroidStudioProjects/OppositeApp/app/src/main/AndroidManifest.xml
+INJECTED from /home/vertigo/AndroidStudioProjects/OppositeApp/app/src/main/AndroidManifest.xml
+MERGED from [androidx.compose.material3:material3-android:1.2.0] /home/vertigo/.gradle/caches/transforms-3/a4b5292a4167be8f2bcd9c47b410e459/transformed/material3-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material3:material3-android:1.2.0] /home/vertigo/.gradle/caches/transforms-3/a4b5292a4167be8f2bcd9c47b410e459/transformed/material3-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-android:1.6.1] /home/vertigo/.gradle/caches/transforms-3/09a207ec74d853ac2e1e46faafe3e7f7/transformed/material-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-android:1.6.1] /home/vertigo/.gradle/caches/transforms-3/09a207ec74d853ac2e1e46faafe3e7f7/transformed/material-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.6.1] /home/vertigo/.gradle/caches/transforms-3/0cb6b17ef82ff5f5a01ff33f5d7a7278/transformed/material-icons-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.6.1] /home/vertigo/.gradle/caches/transforms-3/0cb6b17ef82ff5f5a01ff33f5d7a7278/transformed/material-icons-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-extended-android:1.6.1] /home/vertigo/.gradle/caches/transforms-3/4aeddd86fbc0a27303c91185f8a3559c/transformed/material-icons-extended-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-extended-android:1.6.1] /home/vertigo/.gradle/caches/transforms-3/4aeddd86fbc0a27303c91185f8a3559c/transformed/material-icons-extended-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.6.1] /home/vertigo/.gradle/caches/transforms-3/2e07f69b704c313109357947ac2beeab/transformed/material-ripple-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.6.1] /home/vertigo/.gradle/caches/transforms-3/2e07f69b704c313109357947ac2beeab/transformed/material-ripple-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.6.1] /home/vertigo/.gradle/caches/transforms-3/602c82fa83cc5b49af16be15c480842d/transformed/foundation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.6.1] /home/vertigo/.gradle/caches/transforms-3/602c82fa83cc5b49af16be15c480842d/transformed/foundation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.6.1] /home/vertigo/.gradle/caches/transforms-3/5a95a9137e66539f6a2239cdb54fcb35/transformed/animation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.6.1] /home/vertigo/.gradle/caches/transforms-3/5a95a9137e66539f6a2239cdb54fcb35/transformed/animation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.6.1] /home/vertigo/.gradle/caches/transforms-3/17ea50e1263b235f9beb62c88d3c4163/transformed/foundation-layout-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.6.1] /home/vertigo/.gradle/caches/transforms-3/17ea50e1263b235f9beb62c88d3c4163/transformed/foundation-layout-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.6.1] /home/vertigo/.gradle/caches/transforms-3/8d7182cdc0f4516b5bfbd9fc67515373/transformed/animation-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.6.1] /home/vertigo/.gradle/caches/transforms-3/8d7182cdc0f4516b5bfbd9fc67515373/transformed/animation-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.6.1] /home/vertigo/.gradle/caches/transforms-3/f9f7a905ed618180d3597f4e923984b4/transformed/ui-tooling-data-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.6.1] /home/vertigo/.gradle/caches/transforms-3/f9f7a905ed618180d3597f4e923984b4/transformed/ui-tooling-data-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.6.1] /home/vertigo/.gradle/caches/transforms-3/eb7fbc6a52738ff1fbfc95c2b97e79be/transformed/ui-unit-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.6.1] /home/vertigo/.gradle/caches/transforms-3/eb7fbc6a52738ff1fbfc95c2b97e79be/transformed/ui-unit-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.6.1] /home/vertigo/.gradle/caches/transforms-3/6dcb1427b010638ad891b0be7d652e92/transformed/ui-geometry-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.6.1] /home/vertigo/.gradle/caches/transforms-3/6dcb1427b010638ad891b0be7d652e92/transformed/ui-geometry-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.6.1] /home/vertigo/.gradle/caches/transforms-3/e51627b2f89cefe06e3a0143a2a03008/transformed/ui-util-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.6.1] /home/vertigo/.gradle/caches/transforms-3/e51627b2f89cefe06e3a0143a2a03008/transformed/ui-util-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.6.1] /home/vertigo/.gradle/caches/transforms-3/61f61e2288bdcab78ad03c092a295f5f/transformed/ui-text-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.6.1] /home/vertigo/.gradle/caches/transforms-3/61f61e2288bdcab78ad03c092a295f5f/transformed/ui-text-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.6.1] /home/vertigo/.gradle/caches/transforms-3/ba4dfad7cce028600c94c6602f8f486a/transformed/ui-tooling-preview-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.6.1] /home/vertigo/.gradle/caches/transforms-3/ba4dfad7cce028600c94c6602f8f486a/transformed/ui-tooling-preview-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.6.1] /home/vertigo/.gradle/caches/transforms-3/f22a8ba4aa3a13e939c2714e28fc88fa/transformed/ui-tooling-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.6.1] /home/vertigo/.gradle/caches/transforms-3/f22a8ba4aa3a13e939c2714e28fc88fa/transformed/ui-tooling-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.6.1] /home/vertigo/.gradle/caches/transforms-3/e782116942221b004f8b84511819e42b/transformed/ui-graphics-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.6.1] /home/vertigo/.gradle/caches/transforms-3/e782116942221b004f8b84511819e42b/transformed/ui-graphics-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-test-manifest:1.6.1] /home/vertigo/.gradle/caches/transforms-3/e5596daf1ab123b56ec00b2c6f9c31fb/transformed/ui-test-manifest-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-test-manifest:1.6.1] /home/vertigo/.gradle/caches/transforms-3/e5596daf1ab123b56ec00b2c6f9c31fb/transformed/ui-test-manifest-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.2] /home/vertigo/.gradle/caches/transforms-3/f598de29a657664a173ec2e0a489c22a/transformed/activity-1.8.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.2] /home/vertigo/.gradle/caches/transforms-3/f598de29a657664a173ec2e0a489c22a/transformed/activity-1.8.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.2] /home/vertigo/.gradle/caches/transforms-3/48017947aab37afc85deb28da0fd7037/transformed/activity-ktx-1.8.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.2] /home/vertigo/.gradle/caches/transforms-3/48017947aab37afc85deb28da0fd7037/transformed/activity-ktx-1.8.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.8.2] /home/vertigo/.gradle/caches/transforms-3/31540e42f446e6ced3cb9865c174d9b5/transformed/activity-compose-1.8.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.8.2] /home/vertigo/.gradle/caches/transforms-3/31540e42f446e6ced3cb9865c174d9b5/transformed/activity-compose-1.8.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.6.1] /home/vertigo/.gradle/caches/transforms-3/6fe095ae94746489116c3e144639aa95/transformed/ui-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.6.1] /home/vertigo/.gradle/caches/transforms-3/6fe095ae94746489116c3e144639aa95/transformed/ui-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.autofill:autofill:1.0.0] /home/vertigo/.gradle/caches/transforms-3/b73ec58ddab3aeae0204fb5caae25d31/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] /home/vertigo/.gradle/caches/transforms-3/b73ec58ddab3aeae0204fb5caae25d31/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/vertigo/.gradle/caches/transforms-3/910e26ee64e744e6ba693a9092449d9b/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/vertigo/.gradle/caches/transforms-3/910e26ee64e744e6ba693a9092449d9b/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.core:core:1.12.0] /home/vertigo/.gradle/caches/transforms-3/04312fcc81a1dba854cd5396be05d8ca/transformed/core-1.12.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.12.0] /home/vertigo/.gradle/caches/transforms-3/04312fcc81a1dba854cd5396be05d8ca/transformed/core-1.12.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /home/vertigo/.gradle/caches/transforms-3/083e521b44f6514bba935ec55abb258f/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /home/vertigo/.gradle/caches/transforms-3/083e521b44f6514bba935ec55abb258f/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /home/vertigo/.gradle/caches/transforms-3/6627fc08f2a5b5190efd8ca8137b3b0e/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /home/vertigo/.gradle/caches/transforms-3/6627fc08f2a5b5190efd8ca8137b3b0e/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] /home/vertigo/.gradle/caches/transforms-3/7d33a910eaac04779d29d49f75d54eab/transformed/lifecycle-livedata-core-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] /home/vertigo/.gradle/caches/transforms-3/7d33a910eaac04779d29d49f75d54eab/transformed/lifecycle-livedata-core-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0] /home/vertigo/.gradle/caches/transforms-3/6adfae340b2bf8bf9bd05709e5f48a6c/transformed/lifecycle-viewmodel-ktx-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0] /home/vertigo/.gradle/caches/transforms-3/6adfae340b2bf8bf9bd05709e5f48a6c/transformed/lifecycle-viewmodel-ktx-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] /home/vertigo/.gradle/caches/transforms-3/c470949c830718823de56a06bacead44/transformed/lifecycle-viewmodel-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] /home/vertigo/.gradle/caches/transforms-3/c470949c830718823de56a06bacead44/transformed/lifecycle-viewmodel-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.7.0] /home/vertigo/.gradle/caches/transforms-3/5756ec2ab082629850437ed69c267b2e/transformed/lifecycle-runtime-ktx-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.7.0] /home/vertigo/.gradle/caches/transforms-3/5756ec2ab082629850437ed69c267b2e/transformed/lifecycle-runtime-ktx-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] /home/vertigo/.gradle/caches/transforms-3/f7e84d318a746cc06c5bb13a017d3482/transformed/lifecycle-runtime-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] /home/vertigo/.gradle/caches/transforms-3/f7e84d318a746cc06c5bb13a017d3482/transformed/lifecycle-runtime-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /home/vertigo/.gradle/caches/transforms-3/c660b6dc6a3463d06b67321f3ad00310/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /home/vertigo/.gradle/caches/transforms-3/c660b6dc6a3463d06b67321f3ad00310/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/vertigo/.gradle/caches/transforms-3/f31a15b312a3404d452900ff76d108d6/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/vertigo/.gradle/caches/transforms-3/f31a15b312a3404d452900ff76d108d6/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] /home/vertigo/.gradle/caches/transforms-3/f60c8fd0e153867f8d62aac0dba5afa6/transformed/lifecycle-viewmodel-savedstate-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] /home/vertigo/.gradle/caches/transforms-3/f60c8fd0e153867f8d62aac0dba5afa6/transformed/lifecycle-viewmodel-savedstate-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.12.0] /home/vertigo/.gradle/caches/transforms-3/9aebf5de2db2af94074a51bd7ae53573/transformed/core-ktx-1.12.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.12.0] /home/vertigo/.gradle/caches/transforms-3/9aebf5de2db2af94074a51bd7ae53573/transformed/core-ktx-1.12.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.6.1] /home/vertigo/.gradle/caches/transforms-3/9223995c0af468764f5943749c6b70ad/transformed/runtime-saveable-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.6.1] /home/vertigo/.gradle/caches/transforms-3/9223995c0af468764f5943749c6b70ad/transformed/runtime-saveable-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.6.1] /home/vertigo/.gradle/caches/transforms-3/92f0449159021a47959fa239d8546a68/transformed/runtime-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.6.1] /home/vertigo/.gradle/caches/transforms-3/92f0449159021a47959fa239d8546a68/transformed/runtime-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /home/vertigo/.gradle/caches/transforms-3/54f5a622600580373a3d18075ee4b2c4/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /home/vertigo/.gradle/caches/transforms-3/54f5a622600580373a3d18075ee4b2c4/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/vertigo/.gradle/caches/transforms-3/2783121dfdfce77c9b66ff409459243e/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/vertigo/.gradle/caches/transforms-3/2783121dfdfce77c9b66ff409459243e/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [dev.rikka.shizuku:provider:13.1.5] /home/vertigo/.gradle/caches/transforms-3/cf1b7f3c2363a54e3d5ab1115f4882b8/transformed/provider-13.1.5/AndroidManifest.xml:6:5-44
+MERGED from [dev.rikka.shizuku:provider:13.1.5] /home/vertigo/.gradle/caches/transforms-3/cf1b7f3c2363a54e3d5ab1115f4882b8/transformed/provider-13.1.5/AndroidManifest.xml:6:5-44
+MERGED from [dev.rikka.shizuku:api:13.1.5] /home/vertigo/.gradle/caches/transforms-3/e294b0836816b478c5a46a87d6bbdbcc/transformed/api-13.1.5/AndroidManifest.xml:5:5-44
+MERGED from [dev.rikka.shizuku:api:13.1.5] /home/vertigo/.gradle/caches/transforms-3/e294b0836816b478c5a46a87d6bbdbcc/transformed/api-13.1.5/AndroidManifest.xml:5:5-44
+MERGED from [dev.rikka.shizuku:shared:13.1.5] /home/vertigo/.gradle/caches/transforms-3/98e298fe5082a2e1a4f44a40026b7c96/transformed/shared-13.1.5/AndroidManifest.xml:5:5-44
+MERGED from [dev.rikka.shizuku:shared:13.1.5] /home/vertigo/.gradle/caches/transforms-3/98e298fe5082a2e1a4f44a40026b7c96/transformed/shared-13.1.5/AndroidManifest.xml:5:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/vertigo/.gradle/caches/transforms-3/9e3b8c9a3a157a178c2bde1289611433/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/vertigo/.gradle/caches/transforms-3/9e3b8c9a3a157a178c2bde1289611433/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/vertigo/.gradle/caches/transforms-3/b2d547046bc10e49f15fd23dfad1f2ee/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/vertigo/.gradle/caches/transforms-3/b2d547046bc10e49f15fd23dfad1f2ee/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/vertigo/.gradle/caches/transforms-3/0193a71f29d99aac502129feacf4367b/transformed/profileinstaller-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/vertigo/.gradle/caches/transforms-3/0193a71f29d99aac502129feacf4367b/transformed/profileinstaller-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/vertigo/.gradle/caches/transforms-3/c17e386f2f6ea620cc7dca086c7d6fa6/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/vertigo/.gradle/caches/transforms-3/c17e386f2f6ea620cc7dca086c7d6fa6/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/vertigo/.gradle/caches/transforms-3/d52b4e34a60bb21d157aebba8182c94a/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/vertigo/.gradle/caches/transforms-3/d52b4e34a60bb21d157aebba8182c94a/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [dev.rikka.shizuku:aidl:13.1.5] /home/vertigo/.gradle/caches/transforms-3/3dc1717b00db870be365d091389f5d2c/transformed/aidl-13.1.5/AndroidManifest.xml:5:5-44
+MERGED from [dev.rikka.shizuku:aidl:13.1.5] /home/vertigo/.gradle/caches/transforms-3/3dc1717b00db870be365d091389f5d2c/transformed/aidl-13.1.5/AndroidManifest.xml:5:5-44
+	android:targetSdkVersion
+		INJECTED from /home/vertigo/AndroidStudioProjects/OppositeApp/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/vertigo/AndroidStudioProjects/OppositeApp/app/src/main/AndroidManifest.xml
+activity#androidx.compose.ui.tooling.PreviewActivity
+ADDED from [androidx.compose.ui:ui-tooling-android:1.6.1] /home/vertigo/.gradle/caches/transforms-3/f22a8ba4aa3a13e939c2714e28fc88fa/transformed/ui-tooling-release/AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.6.1] /home/vertigo/.gradle/caches/transforms-3/f22a8ba4aa3a13e939c2714e28fc88fa/transformed/ui-tooling-release/AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.6.1] /home/vertigo/.gradle/caches/transforms-3/f22a8ba4aa3a13e939c2714e28fc88fa/transformed/ui-tooling-release/AndroidManifest.xml:24:13-71
+activity#androidx.activity.ComponentActivity
+ADDED from [androidx.compose.ui:ui-test-manifest:1.6.1] /home/vertigo/.gradle/caches/transforms-3/e5596daf1ab123b56ec00b2c6f9c31fb/transformed/ui-test-manifest-1.6.1/AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.6.1] /home/vertigo/.gradle/caches/transforms-3/e5596daf1ab123b56ec00b2c6f9c31fb/transformed/ui-test-manifest-1.6.1/AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.6.1] /home/vertigo/.gradle/caches/transforms-3/e5596daf1ab123b56ec00b2c6f9c31fb/transformed/ui-test-manifest-1.6.1/AndroidManifest.xml:24:13-63
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] /home/vertigo/.gradle/caches/transforms-3/910e26ee64e744e6ba693a9092449d9b/transformed/emoji2-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /home/vertigo/.gradle/caches/transforms-3/6627fc08f2a5b5190efd8ca8137b3b0e/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /home/vertigo/.gradle/caches/transforms-3/6627fc08f2a5b5190efd8ca8137b3b0e/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/vertigo/.gradle/caches/transforms-3/0193a71f29d99aac502129feacf4367b/transformed/profileinstaller-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/vertigo/.gradle/caches/transforms-3/0193a71f29d99aac502129feacf4367b/transformed/profileinstaller-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/vertigo/.gradle/caches/transforms-3/c17e386f2f6ea620cc7dca086c7d6fa6/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/vertigo/.gradle/caches/transforms-3/c17e386f2f6ea620cc7dca086c7d6fa6/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/vertigo/.gradle/caches/transforms-3/910e26ee64e744e6ba693a9092449d9b/transformed/emoji2-1.3.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/vertigo/.gradle/caches/transforms-3/910e26ee64e744e6ba693a9092449d9b/transformed/emoji2-1.3.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/vertigo/.gradle/caches/transforms-3/910e26ee64e744e6ba693a9092449d9b/transformed/emoji2-1.3.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/vertigo/.gradle/caches/transforms-3/910e26ee64e744e6ba693a9092449d9b/transformed/emoji2-1.3.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] /home/vertigo/.gradle/caches/transforms-3/910e26ee64e744e6ba693a9092449d9b/transformed/emoji2-1.3.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/vertigo/.gradle/caches/transforms-3/910e26ee64e744e6ba693a9092449d9b/transformed/emoji2-1.3.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/vertigo/.gradle/caches/transforms-3/910e26ee64e744e6ba693a9092449d9b/transformed/emoji2-1.3.0/AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] /home/vertigo/.gradle/caches/transforms-3/04312fcc81a1dba854cd5396be05d8ca/transformed/core-1.12.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.12.0] /home/vertigo/.gradle/caches/transforms-3/04312fcc81a1dba854cd5396be05d8ca/transformed/core-1.12.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.12.0] /home/vertigo/.gradle/caches/transforms-3/04312fcc81a1dba854cd5396be05d8ca/transformed/core-1.12.0/AndroidManifest.xml:23:9-81
+permission#com.vertigo.opposite.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] /home/vertigo/.gradle/caches/transforms-3/04312fcc81a1dba854cd5396be05d8ca/transformed/core-1.12.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.12.0] /home/vertigo/.gradle/caches/transforms-3/04312fcc81a1dba854cd5396be05d8ca/transformed/core-1.12.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.12.0] /home/vertigo/.gradle/caches/transforms-3/04312fcc81a1dba854cd5396be05d8ca/transformed/core-1.12.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] /home/vertigo/.gradle/caches/transforms-3/04312fcc81a1dba854cd5396be05d8ca/transformed/core-1.12.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.12.0] /home/vertigo/.gradle/caches/transforms-3/04312fcc81a1dba854cd5396be05d8ca/transformed/core-1.12.0/AndroidManifest.xml:26:22-94
+uses-permission#com.vertigo.opposite.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] /home/vertigo/.gradle/caches/transforms-3/04312fcc81a1dba854cd5396be05d8ca/transformed/core-1.12.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.12.0] /home/vertigo/.gradle/caches/transforms-3/04312fcc81a1dba854cd5396be05d8ca/transformed/core-1.12.0/AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /home/vertigo/.gradle/caches/transforms-3/6627fc08f2a5b5190efd8ca8137b3b0e/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /home/vertigo/.gradle/caches/transforms-3/6627fc08f2a5b5190efd8ca8137b3b0e/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /home/vertigo/.gradle/caches/transforms-3/6627fc08f2a5b5190efd8ca8137b3b0e/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:30:17-78
+uses-permission#moe.shizuku.manager.permission.API_V23
+ADDED from [dev.rikka.shizuku:provider:13.1.5] /home/vertigo/.gradle/caches/transforms-3/cf1b7f3c2363a54e3d5ab1115f4882b8/transformed/provider-13.1.5/AndroidManifest.xml:8:5-78
+	android:name
+		ADDED from [dev.rikka.shizuku:provider:13.1.5] /home/vertigo/.gradle/caches/transforms-3/cf1b7f3c2363a54e3d5ab1115f4882b8/transformed/provider-13.1.5/AndroidManifest.xml:8:22-75
+meta-data#moe.shizuku.client.V3_SUPPORT
+ADDED from [dev.rikka.shizuku:provider:13.1.5] /home/vertigo/.gradle/caches/transforms-3/cf1b7f3c2363a54e3d5ab1115f4882b8/transformed/provider-13.1.5/AndroidManifest.xml:11:9-13:36
+	android:value
+		ADDED from [dev.rikka.shizuku:provider:13.1.5] /home/vertigo/.gradle/caches/transforms-3/cf1b7f3c2363a54e3d5ab1115f4882b8/transformed/provider-13.1.5/AndroidManifest.xml:13:13-33
+	android:name
+		ADDED from [dev.rikka.shizuku:provider:13.1.5] /home/vertigo/.gradle/caches/transforms-3/cf1b7f3c2363a54e3d5ab1115f4882b8/transformed/provider-13.1.5/AndroidManifest.xml:12:13-57
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/vertigo/.gradle/caches/transforms-3/0193a71f29d99aac502129feacf4367b/transformed/profileinstaller-1.3.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/vertigo/.gradle/caches/transforms-3/0193a71f29d99aac502129feacf4367b/transformed/profileinstaller-1.3.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/vertigo/.gradle/caches/transforms-3/0193a71f29d99aac502129feacf4367b/transformed/profileinstaller-1.3.0/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/vertigo/.gradle/caches/transforms-3/0193a71f29d99aac502129feacf4367b/transformed/profileinstaller-1.3.0/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/vertigo/.gradle/caches/transforms-3/0193a71f29d99aac502129feacf4367b/transformed/profileinstaller-1.3.0/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/vertigo/.gradle/caches/transforms-3/0193a71f29d99aac502129feacf4367b/transformed/profileinstaller-1.3.0/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/vertigo/.gradle/caches/transforms-3/0193a71f29d99aac502129feacf4367b/transformed/profileinstaller-1.3.0/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/vertigo/.gradle/caches/transforms-3/0193a71f29d99aac502129feacf4367b/transformed/profileinstaller-1.3.0/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/vertigo/.gradle/caches/transforms-3/0193a71f29d99aac502129feacf4367b/transformed/profileinstaller-1.3.0/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/vertigo/.gradle/caches/transforms-3/0193a71f29d99aac502129feacf4367b/transformed/profileinstaller-1.3.0/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/vertigo/.gradle/caches/transforms-3/0193a71f29d99aac502129feacf4367b/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/vertigo/.gradle/caches/transforms-3/0193a71f29d99aac502129feacf4367b/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/vertigo/.gradle/caches/transforms-3/0193a71f29d99aac502129feacf4367b/transformed/profileinstaller-1.3.0/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/vertigo/.gradle/caches/transforms-3/0193a71f29d99aac502129feacf4367b/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/vertigo/.gradle/caches/transforms-3/0193a71f29d99aac502129feacf4367b/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/vertigo/.gradle/caches/transforms-3/0193a71f29d99aac502129feacf4367b/transformed/profileinstaller-1.3.0/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/vertigo/.gradle/caches/transforms-3/0193a71f29d99aac502129feacf4367b/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/vertigo/.gradle/caches/transforms-3/0193a71f29d99aac502129feacf4367b/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/vertigo/.gradle/caches/transforms-3/0193a71f29d99aac502129feacf4367b/transformed/profileinstaller-1.3.0/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/vertigo/.gradle/caches/transforms-3/0193a71f29d99aac502129feacf4367b/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/vertigo/.gradle/caches/transforms-3/0193a71f29d99aac502129feacf4367b/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:25-92

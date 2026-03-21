@@ -1,0 +1,6 @@
+R_DEF: Internal format may change without notice
+local
+drawable file_hunter
+string app_name
+style Theme.OppositeApp
+xml file_paths

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.vertigo.opposite.app-merged_res-45:/xml_file_paths.xml.flat",
+        "source": "com.vertigo.opposite.app-main-47:/xml/file_paths.xml"
+    },
+    {
+        "merged": "com.vertigo.opposite.app-merged_res-45:/drawable_file_hunter.png.flat",
+        "source": "com.vertigo.opposite.app-main-47:/drawable/file_hunter.png"
+    }
+]
