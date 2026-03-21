@@ -1,6 +1,6 @@
 # fileHunter (~By vertiGO!)
 
-**fileHunter** (formerly OppositeApp) is a powerful, minimalist Android File Manager specifically designed to uncover hidden media vaults and browse restricted application data without requiring root access.
+**fileHunter** is a powerful, minimalist Android File Manager specifically designed to uncover hidden media vaults and browse restricted application data without requiring root access.
 
 ## Key Features
 
