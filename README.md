@@ -2,7 +2,7 @@
 
 **fileHunter** is a powerful, minimalist Android File Manager specifically designed to uncover hidden media vaults and browse restricted application data without requiring root access.
 
-## Key Features
+## Key Features,
 
 *   **Shizuku Powered:** Uses the Shizuku API to seamlessly bypass Android's Scoped Storage limitations, allowing you to browse restricted internal app folders like `/Android/data`.
 *   **Deep Vault Scanner:** Instantly searches your entire device storage for folders containing `.nomedia` files, immediately aggregating all hidden vaults into a single, easy-to-navigate list.
