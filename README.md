@@ -1,5 +1,6 @@
 # fileHunter (~By vertiGO!)
 
+
 **fileHunter** is a powerful, minimalist Android File Manager specifically designed to uncover hidden media vaults and browse restricted application data without requiring root access.
 
 ## Key Features,
