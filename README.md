@@ -8,10 +8,9 @@
 *   **Shizuku Powered:** Uses the Shizuku API to seamlessly bypass Android's Scoped Storage limitations, allowing you to browse restricted internal app folders like `/Android/data`.
 *   **Deep Vault Scanner:** Instantly searches your entire device storage for folders containing `.nomedia` files, immediately aggregating all hidden vaults into a single, easy-to-navigate list.
 *   **Media Hunter:** Automatically scans "disguised" cache files (like `.bin` or `.tmp` files) and reads their binary Hex headers. If it detects a hidden JPEG photo (`FF D8 FF`), it tags it with a picture icon!
-*   **App Label Translation:** Automatically translates cryptic package names (e.g., `org.telegram.messenger`) into human-readable titles (e.g., **Telegram**) for zero-friction navigation.
+*   **App Label Translation:** Automatically translates cryptic package names (e.g., `org.telegram.messenger`) into human-readable titles for zero-friction navigation.
 *   **Direct File Opening:** Safely copies restricted files to a temporary cache and uses a `FileProvider` to open them instantly in your favorite Gallery or Video Player.
-*   **Smart Navigation History:** Remembers your exact place in deep vault scans so you never lose your search results when pressing "Back".
-
+*   **Smart Navigation History:** Remembers your exact place in deep vault scans so you never lose your search results 
 ## Under the Hood
 
 Built entirely with **Kotlin** and **Jetpack Compose**. 
